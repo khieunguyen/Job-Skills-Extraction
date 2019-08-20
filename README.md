@@ -33,7 +33,7 @@ Each column correponds to a specifica job description (document) while each row 
  
 The following is a simple demonstration: 
 
-![image of NMF at work](https://github.com/khieunguyen/related_job_skills/blob/master/NMF%20BigPicture.png)
+![image of NMF at work](https://github.com/khieunguyen/Job-Skills-Extraction/blob/master/NMF%20BigPicture.png)
 
 Each column in matrix W represents a topic, or a cluster of words. It can be viewed as a set of bases from which a document is formed.  
 
@@ -53,7 +53,7 @@ The process consists of three steps:
 
 The following is the process of this project:
 
-<img src="https://github.com/khieunguyen/related_job_skills/blob/master/Process.png" height="550" width="500">
+<img src="https://github.com/khieunguyen/Job-Skills-Extraction/blob/master/Process.png" height="550" width="500">
 
 Yellow section refers to part 1. Blue section refers to part 2. Green section refers to part 3.
 
